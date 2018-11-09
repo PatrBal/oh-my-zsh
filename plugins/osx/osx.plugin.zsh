@@ -1,4 +1,3 @@
-# Modified by pb on 9 Nov 2018
 # Open the current directory in a Finder window
 alias ofd='open_command $PWD'
 
